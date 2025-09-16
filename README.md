@@ -10,7 +10,7 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](ghosts-octopus.github.io/Portfolio-V4/)
+[Demo](https://ghosts-octopus.github.io/Portfolio-V4/)
 
 
 ## Installation
